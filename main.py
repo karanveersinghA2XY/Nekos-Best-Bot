@@ -29,7 +29,7 @@ bot = Client(
 
 PM_START_TEXT = """
 **Welcome** {}~kun ฅ(≈>ܫ<≈)
-`I'm A Neko Themed Telegram Bot Using Nekos.best! `
+`I'm A Neko Themed Telegram Bot Using Nekos best! `
 **Make Your Groups Active By Adding Me There! ××**
 """
 
@@ -53,7 +53,7 @@ aasf = (
  "Hello UwU {} I'm here to play, Meow"
 )
 
-help_text = "**Hoi {} I Am A Pyrogram Based Telegram Bot Using Nekos.best Click The Bellow But To Check My Commands**"
+help_text = "**Hey..!! {} I Am A Pyrogram Based Telegram Bot Using Nekos best Click /help To Check My Commands**"
 
 @bot.on_message(filters.command("kiss"))
 async def kiss(_, message):
