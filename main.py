@@ -670,7 +670,7 @@ async def start(_, message):
 
 @bot.on_message(filters.command("help"))
 def help(_, message):
-    pic = "https://telegra.ph/file/bdfbcff53832da88189d1.jpg"
+    pic = "https://te.legra.ph/file/1bb02aeaae5834067eaaf.jpg"
     buttons = [[
         InlineKeyboardButton("[► Read Here ◄]", url="https://telegra.ph/NekoBesBot-05-26"),
     ]]
