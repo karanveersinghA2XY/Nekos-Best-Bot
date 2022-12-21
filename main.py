@@ -651,7 +651,7 @@ def neko(_, message):
 async def start(_, message):
       buttons = [[
           InlineKeyboardButton("[► Repo ◄]", url="https://te.legra.ph/file/62235a17aad65667ffa90.jpg"),
-          InlineKeyboardButton("[► Deploy ◄]", url="https://heroku.com/deploy?template=https://github.com/Team-Aasf/Nekos-Best-Bot")
+          InlineKeyboardButton("[► Deploy ◄]", url="https://github.com/ctzfamily/neko-best-bot")
       ]]
       url = "https://nekos.best/api/v2/neko"
       r = requests.get(url)
