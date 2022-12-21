@@ -672,7 +672,7 @@ async def start(_, message):
 def help(_, message):
     pic = "https://te.legra.ph/file/1bb02aeaae5834067eaaf.jpg"
     buttons = [[
-        InlineKeyboardButton("[► Read Here ◄]", url="https://telegra.ph/NekoBesBot-05-26"),
+        InlineKeyboardButton("[► Read Here ◄]", url="https://te.legra.ph/Future-Engineer-12-21-3"),
     ]]
     message.reply_photo(pic, caption=help_text.format(message.from_user.mention),
                              reply_markup=InlineKeyboardMarkup(buttons))
