@@ -2,7 +2,7 @@
       "name" : "Neko Best Bot",
       "description" : "Simple Telegram Bot Use Nekos.best",
       "repository" : "https://github.com/karanveersinghA2XY/Nekos-Best-Bot",
-      "logo" : "https://nekos.best/api/v2/kitsune/0134.png",
+      "logo" : "https://te.legra.ph/file/a5fd56c80748f364c229d.jpg",
       "keywords" : ["nekobest", "pyrogram"],
       "env" : {
          "API_ID" : {
